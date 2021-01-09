@@ -277,9 +277,10 @@ const STREAM_URL = "https://bf6b3e82b49e.us-west-2.playback.live-video.net/api/v
 ```
 
 <p align="center">
-<a url="https://www.aws.com/ivs">  <img width="1024" height="768" src="ivs_demo.jpg"> </a>
+<a url="https://www.aws.com/ivs">  <img width="1024" height="768" src="https://github.com/k30339035/CloudBiz/blob/main/AWS/awsivs/ivs_demo.JPG"> </a>
 </p>
 
-[![Image](ivs_demo.png " - ")](https://www.aws.com/ivs)
+
+[![Image](https://github.com/k30339035/CloudBiz/blob/main/AWS/awsivs/ivs_demo.JPG " - ")](https://www.aws.com/ivs)
 
 
