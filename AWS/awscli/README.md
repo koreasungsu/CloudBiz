@@ -14,4 +14,7 @@ aws ssm get-parameters --names /mart-app/dev/db-url /mart-app/dev/db-password
 ```
 
 
+```
+aws ssm get-parameters --names /mart-app/dev/db-url /mart-app/dev/db-pwd --with-decryption 
 
+```
