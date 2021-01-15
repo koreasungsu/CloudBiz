@@ -20,6 +20,8 @@ choco install kubernetes-cli
 
 choco install ngrok.portable
 
+
+choco 
 ```
 
 ***Error Package***
